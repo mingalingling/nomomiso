@@ -1,3 +1,53 @@
 Nomo Miso Privacy Policy
 nomomisoteam@gmail.com
 
+Nomo Miso is a real-time audio tool that dampens background sound while keeping speech clear. We take privacy seriously and designed the app to process sound **on your device**.
+
+## What We Collect
+- **Microphone access (on-device only).** Audio is processed locally. **We do not upload or store microphone audio on our servers.**
+- **App diagnostics & crash data.** Basic performance, stability, and purchase events (e.g., subscription status) to operate and improve the app. These may be collected via Apple frameworks (e.g., App Store / Crash reports) and/or our service providers listed below.
+- **Purchase information.** We receive non-card details from Apple to confirm your subscription (product, term, and status). Apple processes payment.
+
+> If we introduce optional analytics or cloud features later, this policy will be updated and such features will be opt-in.
+
+## What We Do **Not** Collect
+- No raw microphone recordings sent to our servers.
+- No contact list, photos, or precise location.
+- No health records or sensitive personal data.
+
+## How We Use Information
+- Operate core features (subscription entitlements, in-app functionality).
+- Fix bugs, measure performance, and improve audio quality.
+- Prevent abuse and comply with legal obligations.
+
+## Sharing & Service Providers
+We may use privacy-respecting providers for analytics, crash reporting, and subscription management. These providers act as **processors** on our behalf and only process data necessary to provide their services. We do not sell personal information.
+
+_Current providers (update as needed):_
+- Apple (App Store, payment processing, crash/analytics aggregated via Apple tools)
+
+## Data Retention
+- Diagnostic/analytics data: kept only as long as needed for the purposes above.
+- Purchase/entitlement records: retained as required for tax, accounting, and fraud prevention.
+
+## Your Choices
+- **Permissions.** You can disable the microphone in iOS Settings → Privacy → Microphone (the app will not function without it).
+- **Subscriptions.** Manage or cancel via iOS: Settings → [your name] → Subscriptions.
+- **Access/Deletion requests.** Email **[Email]**. If we hold any personal data about you, we will respond per applicable law.
+
+## Security
+We use reasonable technical and organizational measures. No method of transmission or storage is 100% secure.
+
+## Children
+Nomo Miso is not intended for children under 13. If you believe a child provided data, contact nomomisoteam@gmail.com.
+
+## International Users
+Your data may be processed in your country of residence and where our providers operate. By using the app, you consent to such processing consistent with this policy.
+
+## Changes to This Policy
+We’ll post updates here and revise the “Last updated” date. Material changes will be highlighted in-app or on our site.
+
+## Contact
+DBA Nomo Miso  
+Email: nomomisoteam@gmail.com  
+Address: California US
